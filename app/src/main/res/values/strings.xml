@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sms</string>
+    <string name="activity_main_change_battery">Change battery: %d%%</string>
+    <string name="activity_main_change_status">Status: %s</string>
+    <string-array name="activity_main_change_status_array">
+        <item>Unknown</item>
+        <item>Charging</item>
+        <item>Discharging</item>
+        <item>Not charging</item>
+        <item>Full</item>
+    </string-array>
+</resources>
